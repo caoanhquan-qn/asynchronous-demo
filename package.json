@@ -1,0 +1,14 @@
+{
+  "name": "asynchronous-demo",
+  "version": "1.0.0",
+  "description": "Asynchronous with callback, promise and async/ await",
+  "main": "user.js",
+  "scripts": {
+    "start": "nodemon user.js"
+  },
+  "author": "Quan Cao",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
